@@ -1,0 +1,5 @@
+- I use Visual studio code editor
+-  Once you reach to my repository here clone it to specific folder
+-  Whenever you reach to my folder open it and you'll see basic file called index.html you will open it in browser you want(This is for UI)
+-  For javascript it requires you to install extension of code runner and node.js to run javascript file ,
+-  Once it is installed you will click run button on top of the Javascript file to see the output
